@@ -1,0 +1,22 @@
+.window {
+    min-width: 10rem;
+    min-height: 10rem;
+    border-radius: 0.3rem;
+    background-color: #353939;
+    position: absolute;
+    overflow: hidden;
+    border: #fff5 solid 1px;
+}
+
+.top-bar {
+    height: 1.5rem;
+    background-color: #335555;
+}
+
+.cover {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
